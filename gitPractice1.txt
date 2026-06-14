@@ -4,3 +4,5 @@
 00000003,06-05-2011,100,Gymnastics,Rings,credit
 00000004,12-17-2011,300,Team Sports,Field,paytm
 00000005,02-14-2011,200,Gymnastics,,cash
+00000006,02-14-2011,200,Gymn,,promocode
+00000007,02-14-2011,200,coding,,cash
