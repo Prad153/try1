@@ -6,4 +6,4 @@
 00000005,02-14-2011,200,Gymnastics,,cash
 00000006,02-14-2011,200,Gymn,,promocode
 00000007,02-14-2011,200,coding,,cash
-00000008,02-14-2011,200,coding,,changeInWebMaster
+00000008,02-14-2011,200,coding,,changeInWebMaster_localUpdate
